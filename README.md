@@ -3,7 +3,7 @@
 [![img](https://i.imgur.com/HcaHoth.png)](https://omkarpathak.in)
 
 -----
-Credits: [OmkarPathak](https://github.com/omkar1117)
+Credits: [OmkarPakki](https://github.com/omkar1117)
 http://www.itsmyblog.in
 
 <!--
