@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![img](https://i.imgur.com/HcaHoth.png)](https://omkarpathak.in)
+[![img]([https://i.imgur.com/HcaHoth.png](http://itsmyblog.in/images/sliders/Banner-design-ideas.jpg))](https://omkarpathak.in)
 
 -----
 Credits: [OmkarPakki](https://github.com/omkar1117)
