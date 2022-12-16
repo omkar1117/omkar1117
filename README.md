@@ -3,7 +3,9 @@
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=omkar1117" alt="page views" />
+    <img 
+        src="https://komarev.com/ghpvc/?username=omkar1117&label=Profile%20views&color=0e75b6&style=flat" alt="omkar1117"
+    />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
@@ -25,12 +27,6 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
-</p>
-
-<p align="left">
-    <img 
-        src="https://komarev.com/ghpvc/?username=omkar1117&label=Profile%20views&color=0e75b6&style=flat" alt="omkar1117"
-    />
 </p>
 
 <p align="left">
