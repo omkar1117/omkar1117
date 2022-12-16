@@ -198,7 +198,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar1117&show_icons=true&locale=en&layout=compact"
         alt="omkar1117"
     />
-
+    &nbsp;
     <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=omkar1117&show_icons=true&locale=en" alt="omkar1117"
