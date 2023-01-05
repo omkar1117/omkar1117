@@ -39,7 +39,7 @@
 </p>
 
 <p align="left">
-    <a href="https://twitter.com/iamom" target="blank">
+    <a href="https://twitter.com/omkar1117" target="blank">
         <img src="https://img.shields.io/twitter/follow/iamom?logo=twitter&style=for-the-badge" alt="iamom" />
     </a>
 </p>
