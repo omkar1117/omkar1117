@@ -54,7 +54,7 @@
 
 - 👨‍💻 All of my projects are available at [thought2script.com](thought2script.com)
 
-- 📝 I regularly write articles on [scriptspace.in](scriptspace.in)
+- 📝 I regularly write articles on [https://www.scriptspace.in](www.scriptspace.in)
 
 - 💬 Ask me about **Python Fullstack developer**
 
